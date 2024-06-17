@@ -26,7 +26,9 @@ Despite these comprehensive efforts, overfitting persisted, which can be attribu
 
 Group Member Contributions:
 Hongye Zheng: Led the discussion of EDA, NN, and RNN; contributed to data preprocessing by writing the minmax class;contributed to writing the class for hyperparameter tuning for all models.
+
 Qi Yang: Led the discussion of LSTM and GRU;  contributed to the data preprocessing by writing a function to generate input for models ; contributed to the discussion and conclusion part of the project.
+
 Vieno Wu :Led the discussion of CNN and ARIMA, contributed to the writing of StockPrice Plotter class,  and contributed to the discussion and conclusion part of the project.
 All three of us contributed equally to the writing of this report and the presentation ppt. 
 
