@@ -24,6 +24,13 @@ LSTM(Long Short Term Memory) :    Training MSE: 0.0005805156894650927,
 The results show that CNN, RNN, GRU, and LSTM all performed similarly well, indicating their ability to capture intricate details in non-stationary data. 
 Despite these comprehensive efforts, overfitting persisted, which can be attributed to the inherent challenges of financial time series data. Stock prices are highly volatile and influenced by numerous external factors, making them difficult to predict accurately. The available historical data may not be sufficient to capture long-term trends, and financial data often contains noise and anomalies that hinder model performance.  In conclusion, while significant strides were made to address overfitting, it remains a persistent challenge in stock price prediction. Future research should explore more advanced models, incorporate alternative data sources, and enhance feature engineering techniques. Collaboration with domain experts could provide deeper insights into market dynamics, aiding in the development of more robust predictive models.
 
+Group Member Contributions:
+Hongye Zheng: Led the discussion of EDA, NN, and RNN; contributed to data preprocessing by writing the minmax class;contributed to writing the class for hyperparameter tuning for all models.
+Qi Yang: Led the discussion of LSTM and GRU;  contributed to the data preprocessing by writing a function to generate input for models ; contributed to the discussion and conclusion part of the project.
+Vieno Wu :Led the discussion of CNN and ARIMA, contributed to the writing of StockPrice Plotter class,  and contributed to the discussion and conclusion part of the project.
+All three of us contributed equally to the writing of this report and the presentation ppt. 
+
+
 
  
 
